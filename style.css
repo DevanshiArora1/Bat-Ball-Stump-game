@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold ;
+
+}
+ 
+.choice-button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    border-radius: 50px;
+    margin: 10px;
+    background-color: rgb(34, 37, 128);
+    cursor: pointer;
+}
+.choice-image{
+    height: 75px;
+      
+    background-color: none;
+    border-radius: 10px;
+}
